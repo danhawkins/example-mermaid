@@ -3,7 +3,7 @@
 This is an example of github rendering mermaidjs
 
 ```mermaid
-sequence TD
+flowchart TD
   one --> two
   two --> three
   two --> four
